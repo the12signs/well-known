@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: the12signs.github.io
+Token: 6c836c4903cce95a2cdb887ec1099f44908bab0d866bb9681fae03a299ddc22d
